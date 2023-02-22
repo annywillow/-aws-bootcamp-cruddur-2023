@@ -6,4 +6,6 @@
 
 ### Recreated conceptual diagram in lucid chart
 
-**Note to insert image**
+!.[Recreating conceptual diagram](Assets/Assets/Conceptual%20diagram.png)
+
+
